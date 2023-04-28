@@ -1,4 +1,4 @@
 :loop
 call npm install
-node main.js
+node .
 goto loop
