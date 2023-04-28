@@ -1,1 +1,1 @@
-while true; do npm install; node main.js; done
+while true; do npm install; node .; done
